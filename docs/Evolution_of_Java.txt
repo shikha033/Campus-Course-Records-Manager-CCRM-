@@ -1,0 +1,7 @@
+
+Evolution of Java (short):
+- Java 1.0 (1996) - initial release
+- Java 5 (2004) - generics, enhanced for-loop, enums, annotations
+- Java 8 (2014) - Streams API, Date/Time API (java.time), lambdas
+- Java 11 (2018) - LTS, new APIs
+- Java 17 (2021) - LTS

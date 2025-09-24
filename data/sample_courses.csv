@@ -1,0 +1,22 @@
+
+# code,title,credits,department,semester,instructor
+CS101,Intro to CS,4,CS,FALL,Dr. Alice
+EE100,Intro to EE,3,EE,SPRING,Dr. Bob
+MA201,Calculus II,4,MATH,FALL,Dr. Carol
+PH101,Physics I,3,PHYSICS,SPRING,Dr. David
+CS202,Data Structures,4,CS,SPRING,Dr. Emily
+CS203,Algorithms,4,CS,FALL,Dr. Frank
+CS210,Database Systems,3,CS,FALL,Dr. Grace
+CS215,Operating Systems,4,CS,FALL,Dr. Henry
+CS220,Computer Networks,3,CS,SPRING,Dr. Irene
+CS225,Software Engineering,3,CS,SPRING,Dr. Jack
+EE200,Circuits and Systems,4,EE,FALL,Dr. Kelly
+EE210,Digital Electronics,3,EE,SPRING,Dr. Liam
+EE220,Signals and Systems,3,EE,FALL,Dr. Monica
+MA205,Linear Algebra,3,MATH,FALL,Dr. Nathan
+MA210,Probability and Statistics,3,MATH,SPRING,Dr. Olivia
+PH201,Physics II,3,PHYSICS,FALL,Dr. Paul
+PH210,Modern Physics,3,PHYSICS,SPRING,Dr. Quinn
+CS230,Artificial Intelligence,3,CS,FALL,Dr. Rose
+CS240,Machine Learning,3,CS,SPRING,Dr. Steve
+CS250,Computer Graphics,3,CS,FALL,Dr. Tina
